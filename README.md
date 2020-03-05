@@ -1,7 +1,7 @@
 # Hello_World
 Practice Repository 
 
-Hello All
+Hello All,
 
 My name is Myran Brewer.
 I am a senior at the University of Iowa.
