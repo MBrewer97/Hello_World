@@ -7,8 +7,13 @@ My major is Business Analytics and Information Systems.
 I love watching sports. 
 One day I hope to work for the NBA, Nike, or ESPN. 
 
-## Experience 
+## Skills and Strengths 
+My top five strenghts are adaptability, strategic, includer, futurisitc, and arranger 
 
 ### Coursework 
+Database Management 
+Computational Thinking 
+Info Systems 
 
-#### Skills
+#### Experience
+N/A
