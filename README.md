@@ -1,8 +1,6 @@
 # Hello_World
 Practice Repository 
 
-
-#Bio 
 Hello All,
 
 My name is Myran Brewer.
@@ -11,6 +9,3 @@ My major is Business Analytics and Information Systems.
 I love watching sports. 
 One day I hope to work for the NBA, Nike, or ESPN. 
 
-##Experience
-###Projects
-####Course Material
